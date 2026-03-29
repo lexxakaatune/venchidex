@@ -22,12 +22,15 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Configure Git identity
-        run: |
-          git config --global user.email "alexcasimia@gmail.com"
-          git config --global user.name "lexxakaatune"
+     - name: Configure Git identity
+  run: |
+    git config --global user.email "alexcasimia@gmail.com"
+    git config --global user.name "lexxakaatune"
 
-      - name: Deploy to GitHub Pages
-        run: npx gh-pages -d dist -u "github-actions-bot <github-actions-bot@users.noreply.github.com>"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- name: Deploy to GitHub Pages
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: |
+    npx gh-pages -d dist \
+      -u "github-actions-bot <github-actions-bot@users.noreply.github.com>" \
+      -r https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
