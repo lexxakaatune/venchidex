@@ -22,5 +22,10 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: Configure Git identity
+        run: |
+          git config --global user.email "alexcasimia@gmail.com"
+          git config --global user.name "lexxakaatune"
+
       - name: Deploy to GitHub Pages
         run: npx gh-pages -d dist
