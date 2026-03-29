@@ -4,7 +4,7 @@ import App from "./App";
 import "./index.css";
 
 // React Helmet Provider for SEO
-import { HelmetProvider } from "react-helmet";
+import { HelmetProvider } from "react-helmet-async";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
