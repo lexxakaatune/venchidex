@@ -30,17 +30,17 @@ function Home() {
         <h2 className="text-center">Our Solutions</h2>
         <div className="highlight-grid">
           <div className="highlight-card fade-in">
-            <img src="/assets/images/home-light.jpg" alt="LED Bulb" />
+            <img src="/assets/images/home-light.jpeg" alt="LED Bulb" />
             <h3>LED Lighting</h3>
             <p>Energy-efficient bulbs and fixtures for homes and offices.</p>
           </div>
           <div className="highlight-card fade-in">
-            <img src="/assets/images/street-light.jpg" alt="Street Light" />
+            <img src="/assets/images/street-light.jpeg" alt="Street Light" />
             <h3>Street Lights</h3>
             <p>Durable street lighting solutions for communities.</p>
           </div>
           <div className="highlight-card fade-in">
-            <img src="/assets/images/solar-light.jpg" alt="Solar Light" />
+            <img src="/assets/images/solar-light.jpeg" alt="Solar Light" />
             <h3>Solar Lights</h3>
             <p>Eco-friendly solar-powered lights for sustainable living.</p>
           </div>
