@@ -14,7 +14,7 @@ import Testimonials from "./pages/Testimonials";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/venchidex">
       <Header />
       <main>
         <Routes>
