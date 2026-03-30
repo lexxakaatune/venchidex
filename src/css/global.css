@@ -31,6 +31,7 @@ html, body {
 .nowrap { white-space: nowrap; }
 .flex { display: flex; }
 .flex-center { display: flex; justify-content: center; align-items: center; }
+.flex-between {display: flex; justify-content: space-between; }
 .text-center { text-align: center; }
 .mt-1 { margin-top: 10px; }
 .mt-2 { margin-top: 20px; }
