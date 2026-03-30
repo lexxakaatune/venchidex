@@ -18,22 +18,22 @@ function Products() {
         <h1 className="text-center">Our Products</h1>
         <div className="product-grid">
           <div className="product-card fade-in">
-            <img src="/venchidex/assets/images/home-light.jpg" alt="LED Bulb" />
+            <img src="/venchidex/assets/images/home-light.jpeg" alt="LED Bulb" />
             <h3>LED Bulbs</h3>
             <p>Energy-saving LED bulbs for homes and offices.</p>
           </div>
           <div className="product-card fade-in">
-            <img src="/venchidex/assets/images/street-light.jpg" alt="Street Light" />
+            <img src="/venchidex/assets/images/street-light.jpeg" alt="Street Light" />
             <h3>Street Lights</h3>
             <p>Durable street lighting solutions for communities.</p>
           </div>
           <div className="product-card fade-in">
-            <img src="/venchidex/assets/images/solar-light.jpg" alt="Solar Light" />
+            <img src="/venchidex/assets/images/solar-light.jpeg" alt="Solar Light" />
             <h3>Solar Street Lights</h3>
             <p>Eco-friendly solar-powered lights for sustainable living.</p>
           </div>
           <div className="product-card fade-in">
-            <img src="/venchidex/assets/images/components.jpg" alt="Electrical Components" />
+            <img src="/venchidex/assets/images/components.jpeg" alt="Electrical Components" />
             <h3>Electrical Components</h3>
             <p>Switches, sockets, and wiring accessories.</p>
           </div>
