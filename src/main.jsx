@@ -11,6 +11,7 @@ root.render(
   <React.StrictMode>
     <HelmetProvider>
       <App />
+      <div>i am good </div>
     </HelmetProvider>
   </React.StrictMode>
 );
