@@ -15,7 +15,7 @@ function Contact() {
       </Helmet>
 
       <section className="contact-hero">
-        <img src="/assets/images/contact.jpg" alt="Contact Venchidex Electrical" />
+        <img src="/venchidex/assets/images/contact.jpg" alt="Contact Venchidex Electrical" />
         <div className="contact-overlay">
           <h1>Contact Us</h1>
         </div>
