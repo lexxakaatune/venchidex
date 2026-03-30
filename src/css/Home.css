@@ -1,5 +1,5 @@
 .hero {
-  background: url("/assets/images/hero.jpg") center/cover no-repeat;
+  background: url("/assets/images/hero.jpeg") center/cover no-repeat;
   height: 80vh;
   color: var(--color-light);
   text-align: center;
