@@ -35,12 +35,12 @@ function Home() {
             <p>Energy-efficient bulbs and fixtures for homes and offices.</p>
           </div>
           <div className="highlight-card fade-in">
-            <img src="/venchidex/assets/images/street-light.jpeg" alt="Street Light" />
+            <img src="https://ik.imagekit.io/kdcrwlsl7/Venchidex/street-light.jpeg?updatedAt=1775504704211" alt="Street Light" />
             <h3>Street Lights</h3>
             <p>Durable street lighting solutions for communities.</p>
           </div>
           <div className="highlight-card fade-in">
-            <img src="/venchidex/assets/images/solar-light.jpeg" alt="Solar Light" />
+            <img src="https://ik.imagekit.io/kdcrwlsl7/Venchidex/solar-light.jpeg?updatedAt=1775504703901" alt="Solar Light" />
             <h3>Solar Lights</h3>
             <p>Eco-friendly solar-powered lights for sustainable living.</p>
           </div>
