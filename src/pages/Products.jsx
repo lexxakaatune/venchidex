@@ -33,7 +33,7 @@ function Products() {
             <p>Eco-friendly solar-powered lights for sustainable living.</p>
           </div>
           <div className="product-card fade-in">
-            <img src="https://ik.imagekit.io/kdcrwlsl7/ik-genimg-prompt-Component%20image%20for%20elet3onic%20store%20an%20image%20to%20show%20socket%2C%20switches%20and%20wires%0A/4ee1ebad-76c4-497c-926d-77b6b245d294/image.jpg?tr=f-jpg%2Ch-1024%2Cw-1024&ik-s=2241bc567504e8cdd42a1c506236912346338d58" alt="Electrical Components" />
+            <img src="https://ik.imagekit.io/kdcrwlsl7/Venchidex/https:__ik.imagekit.io_kdcrwlsl7_ik-genimg-prompt-Component_20image_20for_20elet3onic_20store_20an_20image_20to_20show_20socket_2C_20switches_20and_20wires_0A_4ee1ebad-76c4-497c-926d-77b6b245d294_image.jpg_tr=f-jpg_2Ch-1024_2Cw-1024&ik-s=2241bc567504e8cdd42a1c506236912346338d58" />
             <h3>Electrical Components</h3>
             <p>Switches, sockets, and wiring accessories.</p>
           </div>
