@@ -1,5 +1,5 @@
 .hero {
-  background: url("/assets/images/hero.jpeg") center/cover no-repeat;
+  background: url("https://ik.imagekit.io/kdcrwlsl7/Venchidex/hero.jpeg") center/cover no-repeat;
   height: 80vh;
   color: var(--color-light);
   text-align: center;
