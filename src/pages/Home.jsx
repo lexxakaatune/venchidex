@@ -30,7 +30,7 @@ function Home() {
         <h2 className="text-center">Our Solutions</h2>
         <div className="highlight-grid">
           <div className="highlight-card fade-in">
-            <img src="/venchidex/assets/images/home-light.jpeg" alt="LED Bulb" />
+            <img src="https://ik.imagekit.io/kdcrwlsl7/Venchidex/home-light.jpeg" alt="LED Bulb" />
             <h3>LED Lighting</h3>
             <p>Energy-efficient bulbs and fixtures for homes and offices.</p>
           </div>
