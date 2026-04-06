@@ -15,7 +15,7 @@ function About() {
       </Helmet>
 
       <section className="about-hero">
-        <img src="/venchidex/assets/images/about.jpg" alt="About Venchidex Electrical" />
+        <img src="https://ik.imagekit.io/kdcrwlsl7/Venchidex/about.jpg?updatedAt=1775504695377" alt="About Venchidex Electrical" />
         <div className="about-overlay">
           <h1>About Us</h1>
         </div>
